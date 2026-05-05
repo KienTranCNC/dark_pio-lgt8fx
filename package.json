@@ -1,6 +1,6 @@
 {
   "name": "framework-lgt8fx",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "LGT8FX Arduino Framework for Logic Green MCUs",
   "keywords": ["framework", "lgt8f", "arduino", "logic-green"],
   "homepage": "https://github.com/dbuezas/lgt8fx",
