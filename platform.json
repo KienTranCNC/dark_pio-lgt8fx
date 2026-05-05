@@ -27,7 +27,7 @@
         "framework-lgt8fx": {
             "type": "framework",
             "optional": true,
-            "version": "1.0.8"
+            "version": "1.0.7"
         },
         "tool-avrdude": {
             "type": "uploader",
