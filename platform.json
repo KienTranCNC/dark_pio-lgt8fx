@@ -1,7 +1,7 @@
 {
-    "name": "lgt8f",
-    "title": "Logic Green boards",
-    "description": "Board Package for Logic Green",
+    "name": "lgt8fx",
+    "title": "K's Logic Green boards",
+    "description": "darkautism Board Package for Logic Green",
     "url": "https://github.com/darkautism/pio-lgt8fx",
     "homepage": "https://github.com/darkautism/pio-lgt8fx",
     "license": "Apache-2.0",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/darkautism/pio-lgt8fx.git"
+        "url": "https://github.com/KienTranCNC/dark_pio-lgt8fx.git"
     },
     "version": "1.0.3",
     "frameworks": {
@@ -27,7 +27,7 @@
         "framework-lgt8fx": {
             "type": "framework",
             "optional": true,
-            "version": ">=1.0.5"
+            "version": "https://github.com/KienTranCNC/dbu_package_lgt8fx"
         },
         "tool-avrdude": {
             "type": "uploader",
