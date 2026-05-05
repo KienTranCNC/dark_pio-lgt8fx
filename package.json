@@ -1,7 +1,11 @@
 {
-    "name": "lgt8f",
-    "version": "1.0.3",
-    "description": "Logic Green LGT8F platform for PlatformIO",
-    "license": "Apache-2.0"
-    "type": "platform"
+  "name": "framework-lgt8fx",
+  "version": "1.0.7",
+  "description": "LGT8FX Arduino Framework for Logic Green MCUs",
+  "keywords": ["framework", "lgt8f", "arduino", "logic-green"],
+  "homepage": "https://github.com/dbuezas/lgt8fx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KienTranCNC/pio-lgt8fx.git"
+  }
 }
