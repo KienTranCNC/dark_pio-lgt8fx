@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/KienTranCNC/dark_pio-lgt8fx.git"
+        "url": "https://github.com/KienTranCNC/pio-lgt8fx.git"
     },
     "version": "1.0.3",
     "frameworks": {
@@ -27,7 +27,7 @@
         "framework-lgt8fx": {
             "type": "framework",
             "optional": true,
-            "version": "https://github.com/KienTranCNC/dbu_package_lgt8fx.git"
+            "version": "https://github.com/KienTranCNC/lgt8fx.git"
         },
         "tool-avrdude": {
             "type": "uploader",
