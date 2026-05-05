@@ -27,7 +27,7 @@
         "framework-lgt8fx": {
             "type": "framework",
             "optional": true,
-            "version": "https://github.com/KienTranCNC/dbu_package_lgt8fx"
+            "version": "https://github.com/KienTranCNC/dbu_package_lgt8fx.git"
         },
         "tool-avrdude": {
             "type": "uploader",
