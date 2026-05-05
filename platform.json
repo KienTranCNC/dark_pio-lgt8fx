@@ -2,11 +2,12 @@
     "name": "lgt8f",
     "title": "K's Logic Green boards",
     "description": "darkautism Board Package for Logic Green",
-    "url": "https://github.com/darkautism/pio-lgt8fx",
-    "homepage": "https://github.com/darkautism/pio-lgt8fx",
+    "url": "https://github.com/KienTranCNC/pio-lgt8fx",
+    "homepage": "https://github.com/KienTranCNC/pio-lgt8fx",
     "license": "Apache-2.0",
+    "keywords": ["dev-platform", "LGT", "AVR", "8-bit"],
     "engines": {
-        "platformio": "^5"
+        "platformio": "^6"
     },
     "repository": {
         "type": "git",
@@ -22,16 +23,18 @@
     "packages": {
         "toolchain-atmelavr": {
             "type": "toolchain",
-            "version": ">=1.70300.191015"
+            "owner": "platformio",
+            "version": "~1.70300.0"
         },
         "framework-lgt8fx": {
             "type": "framework",
             "optional": true,
-            "version": "1.0.7"
+            "version": "https://github.com/KienTranCNC/lgt8fx.git#master"
         },
         "tool-avrdude": {
             "type": "uploader",
             "optional": true,
+            "owner": "platformio",
             "version": "~1.60300.0"
         }
     }
