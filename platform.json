@@ -27,7 +27,7 @@
         "framework-lgt8fx": {
             "type": "framework",
             "optional": true,
-            "version": "https://github.com/KienTranCNC/lgt8fx.git"
+            "version": "1.0.5"
         },
         "tool-avrdude": {
             "type": "uploader",
